@@ -9,6 +9,7 @@ Source0:	http://www.linuxprinting.org/download/printing/pbmtozjs.c
 BuildRequires:	jbig-devel
 Conflicts:	printer-utils = 2007
 Conflicts:	printer-filters = 2007
+BuildRoot:	%{_tmppath}/%{name}-%{version}-root
 
 %description
 Driver for the HP LaserJet 1000 GDI printers. Perhaps it also works with some
