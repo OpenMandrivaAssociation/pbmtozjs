@@ -1,7 +1,7 @@
 Summary:	Driver for the HP LaserJet 1000 GDI printers
 Name: 		pbmtozjs
 Version:	0
-Release:	%mkrel 9
+Release:	%mkrel 10
 License:	GPL
 Group:		System/Printing
 URL:		http://www.linuxprinting.org/download/printing/pbmtozjs.c
