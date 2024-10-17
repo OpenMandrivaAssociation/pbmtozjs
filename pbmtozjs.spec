@@ -4,7 +4,7 @@ Version:	0
 Release:	26
 License:	GPLv2
 Group:		System/Printing
-Url:		http://www.linuxprinting.org/download/printing/pbmtozjs.c
+Url:		https://www.linuxprinting.org/download/printing/pbmtozjs.c
 Source0:	http://www.linuxprinting.org/download/printing/pbmtozjs.c
 BuildRequires:	jbig-devel
 
